@@ -18,3 +18,6 @@ https://guides.railsgirls.com/devise
 
 Free themes for Bootstrap
 https://bootswatch.com/
+
+Add Social Sharing
+https://github.com/huacnlee/social-share-button
