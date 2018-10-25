@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Ruby 2.5.3
 
-* Ruby version
+Resources used:
 
-* System dependencies
 
-* Configuration
+Getting Up and Running Quickly with Scaffolding
+https://guides.rubyonrails.org/v3.2.9/getting_started.html#getting-up-and-running-quickly-with-scaffolding
 
-* Database creation
+Undefined method for `before_filter'
+https://stackoverflow.com/questions/45015651/undefined-method-for-before-filter
 
-* Database initialization
+Adding Authentication with Devise
+https://guides.railsgirls.com/devise
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Free themes for Bootstrap
+https://bootswatch.com/
