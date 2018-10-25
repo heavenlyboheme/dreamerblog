@@ -21,3 +21,5 @@ https://bootswatch.com/
 
 Add Social Sharing
 https://github.com/huacnlee/social-share-button
+
+https://stackoverflow.com/questions/14584218/how-to-add-facebook-comments-to-a-rails-application
